@@ -1,0 +1,8 @@
+*
+!/.gitignore
+!/README.md
+!/p/
+!/p/**/
+!/p/**/index.js
+!/p/**/index.js.md5
+!/p/**/index.js.sig
